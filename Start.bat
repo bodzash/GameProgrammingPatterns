@@ -1,1 +1,1 @@
-cmake -E time cmake --build Build && START "" .Build/Debug/GPG.exe
+cmake -E time cmake --build Build && START "" ./Build/Debug/GPG.exe

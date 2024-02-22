@@ -10,5 +10,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 # Executable
 add_executable(
     GPG
-    Command.cpp
+    # Source/Command.cpp
+    Source/ActorComponent.cpp
 )

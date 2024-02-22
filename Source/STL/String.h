@@ -1,0 +1,8 @@
+namespace AXSTD {
+
+class String
+{
+    
+};
+
+}

@@ -5,5 +5,5 @@
 git clone https://github.com/bodzash/GameProgrammingPatterns.git
 mkdir Build && cd Build
 cmake .. && cmake --build .
-start "" Debug/GPG.exe
+start "" ./Debug/GPG.exe
 ```
